@@ -5,4 +5,5 @@ Tutorial # 1
 
 Nov. 2024, University of Campinas
 
-By Jassem Abbasi, 
+By Jassem Abbasi, jassem.abbasi@uis.no, https://jcabbasi.github.io/
+
