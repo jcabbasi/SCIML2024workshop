@@ -37,3 +37,7 @@ You can open a GitHub notebook directly from Colab using the following steps:
 - Select the notebook you want to open, and it will load in Google Colab.
 - Then, enjoy playing with the tutorial. :wink:
 
+
+### Acknowledgment
+This work is a part of the INTPART project and is supported by NCS2030 - National Centre for Sustainable Subsurface Utilization of the Norwegian Continental Shelf, at University of Stavanger (UiS), and also University of Campinas (UNICAMP).
+
