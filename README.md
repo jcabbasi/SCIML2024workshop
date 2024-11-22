@@ -1,5 +1,5 @@
 
-# A workshop on Scientific Machine Learning (SciML2024) 
+# A workshop on Scientific Machine Learning (SciML) - Nov. 2024
 
 By Jassem Abbasi, jassem.abbasi@uis.no, https://jcabbasi.github.io/
 
