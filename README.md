@@ -17,6 +17,12 @@ By Jassem Abbasi, jassem.abbasi@uis.no, https://jcabbasi.github.io/
 
 -  "Abbasi, J., Moseley, B., Kurotori, T., Jagtab, A. D., Kovscek, A. R., Hiorth, A., & Andersen, P. Ø. (2024). History-Matching of Imbibition Flow in Multiscale Fractured Porous Media Using Physics-Informed Neural Networks (PINNs). arXiv preprint arXiv:2410.20801. >> https://arxiv.org/abs/2410.20801
 
+### Exercises:
+- :fire: A Beginner's Introduction to PINNs (Harmonic Oscillator)
+- :fire: A Beginner's Introduction to PINNs (Buckley-Leverett Problem)
+- :fire: A Beginner's Introduction to Neural Operators (An Integral Operator)
+
+>> the excercies can be easily loaded on Google Colab.
 
 --------
 ### How to load a Jupyter notebook file into Google Colab:
@@ -31,7 +37,3 @@ You can open a GitHub notebook directly from Colab using the following steps:
 - Select the notebook you want to open, and it will load in Google Colab.
 - Then, enjoy playing with the tutorial. :wink:
 
-### Exercises:
-- :fire: A Beginner's Introduction to PINNs (Harmonic Oscillator)
-- :fire: A Beginner's Introduction to PINNs (Buckley-Leverett Problem)
-- :fire: A Beginner's Introduction to Neural Operators (An Integral Operator)
