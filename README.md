@@ -11,9 +11,11 @@ By Jassem Abbasi, jassem.abbasi@uis.no, https://jcabbasi.github.io/
 - :fire: Using PINNs for inverse calculstion of multiphase flow properties in two phase flow in porous media
 
 ### Also, you can check our papers:
-"Simulation and Prediction of Countercurrent Spontaneous Imbibition at Early and Late Times Using Physics-Informed Neural Networks" by Jassem Abbasi and Pål Østebø Andersen (2023) >> https://doi.org/10.1021/acs.energyfuels.3c02271
-" Application of Physics-Informed Neural Networks for Estimation of Saturation Functions from Countercurrent Spontaneous Imbibition Tests" by Jassem Abbasi and Pål Østebø Andersen (2024) >> https://doi.org/10.2118/218402-PA
-"Abbasi, J., Moseley, B., Kurotori, T., Jagtab, A. D., Kovscek, A. R., Hiorth, A., & Andersen, P. Ø. (2024). History-Matching of Imbibition Flow in Multiscale Fractured Porous Media Using Physics-Informed Neural Networks (PINNs). arXiv preprint arXiv:2410.20801. >> https://arxiv.org/abs/2410.20801
+- Abbasi, J., & Andersen, P. Ø. (2023). Simulation and Prediction of Countercurrent Spontaneous Imbibition at Early and Late Time Using Physics-Informed Neural Networks. Energy & Fuels, 37(18), 13721-13733. >> https://doi.org/10.1021/acs.energyfuels.3c02271
+
+-  Abbasi, J., & Andersen, P. Ø. (2024). Application of Physics-Informed Neural Networks for Estimation of Saturation Functions from Countercurrent Spontaneous Imbibition Tests. SPE Journal, 29(04), 1710-1729. >> https://doi.org/10.2118/218402-PA
+
+-  "Abbasi, J., Moseley, B., Kurotori, T., Jagtab, A. D., Kovscek, A. R., Hiorth, A., & Andersen, P. Ø. (2024). History-Matching of Imbibition Flow in Multiscale Fractured Porous Media Using Physics-Informed Neural Networks (PINNs). arXiv preprint arXiv:2410.20801. >> https://arxiv.org/abs/2410.20801
 
 
 --------
