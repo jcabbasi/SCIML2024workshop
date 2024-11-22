@@ -2,10 +2,13 @@
 # A workshop on Scientific Machine Learning (SciML2024) 
 
 By Jassem Abbasi, jassem.abbasi@uis.no, https://jcabbasi.github.io/
---------
-### How to load a Jupyter notebook file into Google Colab:
 
 ![Wellcome Graphics](graphics/wallpaper.webp)
+
+
+
+--------
+### How to load a Jupyter notebook file into Google Colab:
 
 Direct Method from Colab:
 You can open a GitHub notebook directly from Colab using the following steps:
