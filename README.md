@@ -39,5 +39,7 @@ You can open a GitHub notebook directly from Colab using the following steps:
 
 
 ### Acknowledgment
-This work is a part of the INTPART project and is supported by NCS2030 - National Centre for Sustainable Subsurface Utilization of the Norwegian Continental Shelf, at the University of Stavanger (UiS), and also the University of Campinas (UNICAMP).
+This work is a part of the INTPART project and is supported by NCS2030 - National Centre for Sustainable Subsurface Utilization of the Norwegian Continental Shelf, at the University of Stavanger (UiS), and also the University of Campinas (UNICAMP). I also appreciate Dr. Pål Østebø Andersen and Dr. Marcelo Souza de Castro, for their helps.
+
+
 
