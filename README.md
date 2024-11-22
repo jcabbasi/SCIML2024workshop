@@ -22,7 +22,7 @@ By Jassem Abbasi, jassem.abbasi@uis.no, https://jcabbasi.github.io/
 - :fire: A Beginner's Introduction to PINNs (Buckley-Leverett Problem)
 - :fire: A Beginner's Introduction to Neural Operators (An Integral Operator)
 
->> the excercies can be easily loaded on Google Colab.
+>> the excercies can be easily loaded and executed on Google Colab.
 
 --------
 ### How to load a Jupyter notebook file into Google Colab:
