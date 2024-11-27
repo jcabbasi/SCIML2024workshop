@@ -18,10 +18,12 @@ By Jassem Abbasi, jassem.abbasi@uis.no, https://jcabbasi.github.io/
 -  "Abbasi, J., Moseley, B., Kurotori, T., Jagtab, A. D., Kovscek, A. R., Hiorth, A., & Andersen, P. Ø. (2024). History-Matching of Imbibition Flow in Multiscale Fractured Porous Media Using Physics-Informed Neural Networks (PINNs). arXiv preprint arXiv:2410.20801. >> https://arxiv.org/abs/2410.20801
 
 ### Exercises:
-- :fire: A Beginner's Introduction to PINNs (Harmonic Oscillator) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jcabbasi/SCIML2024workshop/blob/main/tut1_oscillator.ipynb)
+- :fire: A Beginner's Introduction to PINNs (Harmonic Oscillator): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jcabbasi/SCIML2024workshop/blob/main/tut1_oscillator.ipynb)
 
-- :fire: A Beginner's Introduction to PINNs (Buckley-Leverett Problem)
-- :fire: A Beginner's Introduction to Neural Operators (An Integral Operator)
+- :fire: A Beginner's Introduction to PINNs (Buckley-Leverett Problem): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jcabbasi/SCIML2024workshop/blob/main/tut2_buckley_leverett.ipynb)
+
+- :fire: A Beginner's Introduction to Neural Operators (An Integral Operator): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jcabbasi/SCIML2024workshop/blob/main/tut3_DeepONet.ipynb)
+
 
 >> the excercies can be easily loaded and executed on Google Colab.
 
