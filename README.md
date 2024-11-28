@@ -8,7 +8,7 @@ By Jassem Abbasi, jassem.abbasi@uis.no, https://jcabbasi.github.io/
 ### Presentations:
 - :fire: Introduction to Scientific Machine Learning, and their applications for solving PDEs
 - :fire: Introduction to Physics-Informed Neural Networks (PINNs)
-- :fire: Using PINNs for inverse calculstion of multiphase flow properties in two phase flow in porous media
+- :fire: Using PINNs for the inverse calculation of multiphase flow properties in two phase flow in porous media
 
 ### Also, you can check our papers:
 - Abbasi, J., & Andersen, P. Ø. (2023). Simulation and Prediction of Countercurrent Spontaneous Imbibition at Early and Late Time Using Physics-Informed Neural Networks. Energy & Fuels, 37(18), 13721-13733. >> https://doi.org/10.1021/acs.energyfuels.3c02271
