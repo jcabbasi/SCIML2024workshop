@@ -24,6 +24,7 @@ By Jassem Abbasi, jassem.abbasi@uis.no, https://jcabbasi.github.io/
 
 - :fire: A Beginner's Introduction to Neural Operators (An Integral Operator): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jcabbasi/SCIML2024workshop/blob/main/tut3_DeepONet.ipynb)
 
+- :fire: [NEW] A Beginner's Introduction to Optimization of Discrete Residuals (ODIL): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jcabbasi/SCIML2024workshop/blob/main/tut4_ODIL.py)
 
 >> the excercies can be easily loaded and executed on Google Colab.
 
