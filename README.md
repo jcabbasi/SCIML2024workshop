@@ -19,7 +19,7 @@ By Jassem Abbasi, jassem.abbasi@uis.no, https://jcabbasi.github.io/
 
 ### Exercises:
 - :fire: A Beginner's Introduction to PINNs (Harmonic Oscillator): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jcabbasi/SCIML2024workshop/blob/main/tut1_oscillator.ipynb)
-- :fire: A Beginner's Introduction to PINNs (Harmonic Oscillator): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jcabbasi/SCIML2024workshop/blob/main/tut1_oscillator_uis.ipynb)
+- :fire: A Beginner's Introduction to PINNs @ UiS MOD 550 (Harmonic Oscillator): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jcabbasi/SCIML2024workshop/blob/main/tut1_oscillator_uis.ipynb)
 
 - :fire: A Beginner's Introduction to PINNs (Buckley-Leverett Problem): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jcabbasi/SCIML2024workshop/blob/main/tut2_buckley_leverett.ipynb)
 
